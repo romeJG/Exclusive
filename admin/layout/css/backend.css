@@ -1,0 +1,97 @@
+body {
+  background-color: #f4f4f4;
+  font-size: 16px;
+}
+.login {
+  width: 300px;
+  margin: 100px auto;
+}
+.login input {
+  margin-bottom: 10px;
+}
+.login .form-control {
+  background-color: #e5e5e5;
+}
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+.navbar-brand {
+  font-size: 20px;
+  margin-left: 90px;
+}
+.btn-outline-success {
+  color: #0ee7fd;
+  border-color: #0ee4fd;
+}
+.border-bottom-color {
+  color: #0ee4fd;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-left: 90px;
+}
+.home-stats .stat {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  font-size: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.home-stats .stat a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.home-stats .stat span {
+  display: block;
+
+  font-size: 50px;
+}
+.home-stats .st-members {
+  background-color: #26c6da;
+}
+.home-stats .st-items {
+  background-color: #ef5350;
+}
+.home-stats .st-pending {
+  background-color: #66bb6a;
+}
+.home-stats .st-comments {
+  background-color: #fb8c00;
+}
+.latest {
+  margin-top: 40px;
+  margin-left: 400px;
+}
+.latest-users {
+  margin-bottom: 0;
+}
+.latest-users li {
+  padding: 8px 0;
+  overflow: hidden;
+  margin-left: 10px;
+}
+.latest-users .btn-success {
+  padding: 3px 8px;
+  margin-left: 20px;
+  overflow: hidden;
+}
+h1 {
+  font-size: 55px;
+  margin: 40px 0;
+  font-weight: bold;
+  color: #666;
+}
+.container {
+  margin-left: auto;
+}
+.main-table td {
+  vertical-align: middle !important;
+}
+.active {
+  margin-left: 10px;
+}
+a {
+  color: #0d6efd;
+  text-decoration: none;
+}
